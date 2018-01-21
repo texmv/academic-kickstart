@@ -2,7 +2,7 @@
 title = "Schneider's Conjecture on Bellum Alexandrinum 13.5"
 
 # Date first published.
-date = "2018-12-31"
+date = "2018-01-01"
 
 # Publication type.
 # Legend:
