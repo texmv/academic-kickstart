@@ -223,6 +223,11 @@ defaultContentLanguageInSubdir = false
     icon = "academia"
     icon_pack = "ai"
     link = "https://exeter.academia.edu/ThomasVozar"
+    
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/thomasvozar/"
 
 
 # Navigation Links
