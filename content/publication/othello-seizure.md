@@ -4,9 +4,6 @@ title = "Body-Mind Aporia in the Seizure of Othello"
 # Date first published.
 date = "2012-04-01"
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`. 
-authors = ["Thomas Vozar"]
-
 # Publication type.
 # Legend:
 # 0 = Uncategorized
@@ -19,7 +16,7 @@ authors = ["Thomas Vozar"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Philosophy and Literature* 36.1: 183-186."
+publication = "*Philosophy and Literature* 36.1: 183-186"
 publication_short = ""
 
 # Abstract and optional shortened version.
