@@ -16,7 +16,7 @@ date = "2012-04-01"
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Philosophy and Literature* 36.1: 183-186 "
+publication = "*Philosophy and Literature* 36.1: 183-186"
 publication_short = ""
 
 # Abstract and optional shortened version.
