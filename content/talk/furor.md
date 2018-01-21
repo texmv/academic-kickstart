@@ -1,6 +1,6 @@
 +++
-title = The Natural History of Poetic Genius in Pierre Petit's Dissertatio de Furore Poetico.
-date = 2018-01-01  
+title = "The Natural History of Poetic Genius in Pierre Petit's Dissertatio de Furore Poetico."
+date = "2018-01-01" 
 draft = false
 
 # Talk start and end times.
