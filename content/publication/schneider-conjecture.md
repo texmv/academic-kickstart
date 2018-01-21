@@ -1,8 +1,8 @@
 +++
-title = "Schneider's Conjecture on *Bellum Alexandrinum* 13.5"
+title = "Schneider's Conjecture on Bellum Alexandrinum 13.5"
 
 # Date first published.
-date = "2016-01-01"
+date = "2019-01-01"
 
 # Publication type.
 # Legend:
@@ -16,7 +16,7 @@ date = "2016-01-01"
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Rheinisches Museum für Philologie.* (Forthcoming)"
+publication = "*Rheinisches Museum für Philologie*. Forthcoming"
 publication_short = ""
 
 # Abstract and optional shortened version.
