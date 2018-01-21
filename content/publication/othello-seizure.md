@@ -2,7 +2,7 @@
 title = "Body-Mind Aporia in the Seizure of Othello"
 
 # Date first published.
-date = "2012"
+date = "2012-04-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["", ""]
