@@ -220,19 +220,9 @@ defaultContentLanguageInSubdir = false
     link = "mailto:tv249@exeter.ac.uk"
 
   [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = ""
-
-  [[params.social]]
     icon = "academia"
     icon_pack = "ai"
     link = "https://exeter.academia.edu/ThomasVozar"
-
-  [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = ""
 
 
 # Navigation Links
