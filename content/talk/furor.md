@@ -1,6 +1,6 @@
 +++
 title = "The Natural History of Poetic Genius"
-date = 2018-01-21
+date = 2016-01-21
 draft = false
 
 # Talk start and end times.
