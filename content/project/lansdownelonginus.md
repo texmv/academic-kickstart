@@ -16,7 +16,7 @@ image_preview = ""
 tags = ["other"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "thomasvozar.info/project/lansdownelonginus"
+external_link = "https://thomasvozar.info/project/lansdownelonginus"
 
 # Does the project detail page use math formatting?
 math = false
