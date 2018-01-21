@@ -9,7 +9,7 @@ title = "Milton and the Sublime"
 summary = "Milton and the sublime blah blah"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "static/img/Paradise_Lost_12.jpg"
+image_preview = ""
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
