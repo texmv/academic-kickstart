@@ -21,6 +21,8 @@ external_link = ""
 # Does the project detail page use math formatting?
 math = false
 
+highlight = false
+
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = ""
