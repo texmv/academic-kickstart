@@ -218,6 +218,11 @@ defaultContentLanguageInSubdir = false
     icon = "envelope"
     icon_pack = "fa"
     link = "mailto:tv249@exeter.ac.uk"
+    
+  [[params.social]]
+    icon = "university"
+    icon_pack = "fa"
+    link = "https://eprofile.exeter.ac.uk/tomvozar"
 
   [[params.social]]
     icon = "academia"
