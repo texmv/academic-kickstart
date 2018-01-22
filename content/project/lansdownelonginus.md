@@ -6,7 +6,7 @@ date = "2018-01-21"
 title = "The Lansdowne Longinus"
 
 # Project summary to display on homepage.
-summary = "An important part in the history of the sublime is played by the ancient treatise Περὶ ὕψους (On the Sublime) ascribed to a Longinus. While it was once thought that Europeans had little knowledge of this work before the 1674 translation into French by Nicolas Boileau-Despréaux, scholarship over the past few decades has steadily increased the evidence for a wider dissemination of the text before this, especially on the Continent. This research adds to this increasing evidence by revealing a previously unknown translation of Longinus in the Lansdowne manuscripts at the British Library, which is likely earlier than Boileau's version."
+summary = "An important part in the history of the sublime is played by the ancient treatise Περὶ ὕψους (*On the Sublime*) ascribed to a Longinus. While it was once thought that Europeans had little knowledge of this work before the 1674 translation into French by Nicolas Boileau-Despréaux, scholarship over the past few decades has steadily increased the evidence for a wider dissemination of the text before this, especially on the Continent. This research adds to this increasing evidence by revealing a previously unknown translation of Longinus in the Lansdowne manuscripts at the British Library, which is likely earlier than Boileau's version."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = ""
