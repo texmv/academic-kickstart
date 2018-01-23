@@ -12,7 +12,7 @@ weight = 5
   interests = [
     "early modern literature",
     "classical reception",
-    "cultural and intellectual history",
+    "intellectual history",
     "translation",
     "textual criticism"
   ]
