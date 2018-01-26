@@ -37,4 +37,4 @@ weight = 5
 
 # Biography
 
-Thomas Vozar is a PhD candidate in English at the University of Exeter associated with the Centre for Early Modern Studies and funded by an International Excellence Scholarship for Postgraduate Research. His dissertation research is concerned with Milton and the concept of the sublime. 
+Thomas Vozar is a PhD candidate in English at the University of Exeter associated with the Centre for Early Modern Studies and funded by an Exeter International Excellence Scholarship for Postgraduate Research. His dissertation research is concerned with Milton and the concept of the sublime. 
