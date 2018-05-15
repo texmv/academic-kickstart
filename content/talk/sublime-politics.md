@@ -1,7 +1,5 @@
 +++
 
-place = "University of Cambridge"
-
 date = 2017-01-01T00:00:00  # Schedule page publish date.
 
 title = "The Politics of the Pre-Aesthetic Sublime in Seventeenth-Century England"
