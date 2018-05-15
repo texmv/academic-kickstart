@@ -1,5 +1,5 @@
 +++
-title = "On the Fifth Stanza of the *Carmen Saeculare*"
+title = "On the Fifth Stanza of the _Carmen Saeculare_"
 
 # Date first published.
 date = "2018-01-01"
