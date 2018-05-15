@@ -16,12 +16,8 @@ location = "Cambridge, United Kingdom"
 # Is this a selected talk? (true/false)
 selected = true
 
-# Projects (optional).
-#   Associate this talk with one or more of your projects.
-#   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = [""]
-
 # Links (optional).
+site = "https://ptih.wordpress.com/2018-conference/"
 url_pdf = ""
 url_slides = ""
 url_video = ""
