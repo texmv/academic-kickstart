@@ -10,11 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "early modern literature",
-    "classical reception",
-    "intellectual history",
-    "translation",
-    "textual criticism"
+    "early modern literary and intellectual history",
+    "classical antiquity and classical reception",
+    "textual criticism, history of the book, and digital humanities",
   ]
 
 # List your qualifications (such as academic degrees).
