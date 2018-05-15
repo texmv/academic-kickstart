@@ -5,8 +5,8 @@ place = "University of Cambridge"
 date = 2017-01-01T00:00:00  # Schedule page publish date.
 
 title = "The Politics of the Pre-Aesthetic Sublime in Seventeenth-Century England"
-time_start = 2018-06-13T13:00:00
-time_end = 2030-06-13T15:00:00
+time_start = 2018-06-13
+time_end = 2018-06-13
 abstract = ""
 abstract_short = ""
 event = "Aesthetics and	Poetics in the History of Political Thought: 11th Annual Graduate Conference in Political Thought and Intellectual History"
