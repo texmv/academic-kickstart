@@ -17,7 +17,6 @@ location = "Cambridge, United Kingdom"
 selected = true
 
 # Links (optional).
-site = "https://ptih.wordpress.com/2018-conference/"
 url_pdf = ""
 url_slides = ""
 url_video = ""
