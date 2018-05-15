@@ -5,13 +5,13 @@ place = "University of Cambridge"
 date = 2017-01-01T00:00:00  # Schedule page publish date.
 
 title = "The Politics of the Pre-Aesthetic Sublime in Seventeenth-Century England"
-time_start = 2018-06-13
-time_end = 2018-06-13
+time_start = 2018-06-13T11:00:00
+time_end = 2018-06-13T11:30:00
 abstract = ""
 abstract_short = ""
-event = "Aesthetics and	Poetics in the History of Political Thought: 11th Annual Graduate Conference in Political Thought and Intellectual History"
+event = "Aesthetics and	Poetics in the History of Political Thought: 11th Annual Graduate Conference in Political Thought and Intellectual History, University of Cambridge"
 event_url = "https://ptih.wordpress.com/2018-conference/"
-location = "University of Cambridge"
+location = "Cambridge, United Kingdom"
 
 # Is this a selected talk? (true/false)
 selected = true
@@ -19,7 +19,7 @@ selected = true
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["deep-learning"]
+projects = [""]
 
 # Links (optional).
 url_pdf = ""
