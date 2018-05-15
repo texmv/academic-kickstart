@@ -1,7 +1,5 @@
 +++
 
-date = "2018-06-13"
-
 place = "University of Cambridge"
 
 date = 2017-01-01T00:00:00  # Schedule page publish date.
