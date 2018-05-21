@@ -37,4 +37,4 @@ weight = 5
 
 Thomas Vozar is a PhD candidate in English at the University of Exeter associated with the Centre for Early Modern Studies and funded by an Exeter International Excellence Scholarship for Postgraduate Research. 
 
-His dissertation research is concerned with John Milton and the classical traditions of the sublime, tracing the intellectual history of the sublime from classical writers on rhetoric, natural history, and theology to the seventeenth century and interpreting Milton's poetry and prose in light of their influence. [CV](../static/pdf/Academic CV - Thomas Vozar.pdf)
+His dissertation research is concerned with John Milton and the classical traditions of the sublime, tracing the intellectual history of the sublime from classical writers on rhetoric, natural history, and theology to the seventeenth century and interpreting Milton's poetry and prose in light of their influence. Download his full CV here: url_pdf = "pdf/Academic CV - Thomas Vozar.pdf"
