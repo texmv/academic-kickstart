@@ -17,17 +17,17 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in English"
+  course = "PhD English"
   institution = "University of Exeter"
   year = 2020
 
 [[education.courses]]
-  course = "MA in Classical Studies"
+  course = "MA Classical Studies"
   institution = "University of Pennsylvania"
   year = 2015
 
 [[education.courses]]
-  course = "BA High Honors in Latin"
+  course = "BA Latin"
   institution = "Oberlin College"
   year = 2013
  
