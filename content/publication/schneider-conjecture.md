@@ -16,7 +16,7 @@ date = "2018-01-01"
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Rheinisches Museum für Philologie*. Forthcoming"
+publication = "*Rheinisches Museum für Philologie* 161.2: 238-239"
 publication_short = ""
 
 # Abstract and optional shortened version.
