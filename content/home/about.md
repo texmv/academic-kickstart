@@ -12,8 +12,7 @@ weight = 5
   interests = [
     "early modern literary and intellectual history",
     "classical texts and their reception",
-    "bibliography, book history, and manuscript studies",
-    "textual criticism, corpus linguistics, and digital humanities",
+    "bibliography, manuscript studies, and textual criticism",
   ]
 
 # List your qualifications (such as academic degrees).
