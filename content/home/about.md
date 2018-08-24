@@ -11,8 +11,8 @@ weight = 5
 [interests]
   interests = [
     "early modern literary and intellectual history",
-    "classical antiquity and classical reception",
-    "textual criticism and digital humanities",
+    "classical texts and their reception",
+    "bibliography, manuscript studies, and textual criticism",
   ]
 
 # List your qualifications (such as academic degrees).
@@ -37,4 +37,4 @@ weight = 5
 
 Thomas M. Vozar is a PhD candidate in English at the University of Exeter associated with the Centre for Early Modern Studies and funded by an Exeter International Excellence Scholarship for Postgraduate Research. 
 
-His dissertation research is concerned with Milton and the classical traditions of the sublime. Download his full CV [here](pdf/CV.pdf).
+His dissertation, *Milton and the Idea of the Sublime in the Seventeenth Century*, gives new life to the commonplace of Milton's sublimity by exposing the existence of the idea of the sublime in seventeenth-century intellectual history. Download his full CV [here](pdf/CV.pdf).
