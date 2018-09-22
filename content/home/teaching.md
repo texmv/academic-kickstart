@@ -15,10 +15,10 @@ weight = 60
 
 +++
 
-Desire and Power: English Literature 1570-1640, University of Exeter, Fall 2018
-
+University of Exeter
+Desire and Power: English Literature 1570-1640, Fall 2018
 Rethinking Shakespeare, University of Exeter, Spring 2018
 
-Elementary Latin II, University of Pennsylvania, Spring 2015
-
-Elementary Latin I, University of Pennsylvania, Fall 2014
+University of Pennsylvania
+Elementary Latin II, Spring 2015
+Elementary Latin I, Fall 2014
