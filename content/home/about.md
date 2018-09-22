@@ -10,7 +10,7 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "early modern literary and intellectual history",
+    "early modern literature and intellectual history",
     "classical texts and their reception",
     "bibliography, manuscript studies, and textual criticism",
   ]
