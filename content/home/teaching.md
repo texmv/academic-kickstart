@@ -15,8 +15,12 @@ weight = 60
 
 +++
 
-Desire and Power: English Literature 1570-1640 [Description](https://humanities.exeter.ac.uk/english/modules/eas2026/)
+**University of Exeter**
 
-Rethinking Shakespeare [Description](https://humanities.exeter.ac.uk/english/modules/eas1041/)
+-[Desire and Power: English Literature 1570-1640](https://humanities.exeter.ac.uk/english/modules/eas2026/)
 
-Elementary Latin I and II [Description](https://catalog.upenn.edu/courses/latn/)
+-[Rethinking Shakespeare](https://humanities.exeter.ac.uk/english/modules/eas1041/)
+
+**University of Pennsylvania**
+
+-[Elementary Latin I and II](https://catalog.upenn.edu/courses/latn/)
