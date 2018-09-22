@@ -8,10 +8,6 @@ math = false
 # Does the content use source code highlighting?
 highlight = false
 
-# Location?
-
-location = "University of Exeter"
-
 +++
 
 This is a test.
