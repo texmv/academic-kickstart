@@ -15,14 +15,10 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+Desire and Power: English Literature 1570-1640, University of Exeter, Fall 2018
 
-I am a teaching instructor for the following courses at University X:
+Rethinking Shakespeare, University of Exeter, Spring 2018
 
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
+Elementary Latin II, University of Pennsylvania, Spring 2015
+
+Elementary Latin I, University of Pennsylvania, Fall 2014
