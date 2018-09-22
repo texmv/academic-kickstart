@@ -9,11 +9,12 @@ math = false
 highlight = false
 
 # Time?
-time_start = 2018-09-24"
-time_end = "2018-12-15"
+time_start = 2018-09-24T11:00:00 time_end = 2018-12-15T11:30:00
 
 # Location?
 
 location = "University of Exeter"
 
 +++
+
+This is a test.
