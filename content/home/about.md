@@ -35,4 +35,4 @@ weight = 5
 
 # About
 
-Thomas Matthew Vozar is a PhD candidate in English at the University of Exeter associated with the Centre for Early Modern Studies and funded by an Exeter International Excellence Scholarship for Postgraduate Research. His scholarship has been published or is forthcoming in *Philosophy and Literature*, the *Rheinisches Museum für Philologie*, and *Latomus*. Download his full CV [here](pdf/CV.pdf).
+Thomas Vozar is a PhD candidate in English at the University of Exeter associated with the Centre for Early Modern Studies and funded by an Exeter International Excellence Scholarship for Postgraduate Research. His scholarship has been published or is forthcoming in *Philosophy and Literature*, the *Rheinisches Museum für Philologie*, and *Latomus*. Download his full CV [here](pdf/CV.pdf).
