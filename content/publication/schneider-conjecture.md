@@ -38,7 +38,7 @@ projects = []
 # Links (optional).
 url_pdf = ""
 url_preprint = ""
-url_code = ""
+url_code = "http://rhm.phil-fak.uni-koeln.de/aktuelle_ausgabe.html"
 url_dataset = ""
 url_project = ""
 url_slides = ""
