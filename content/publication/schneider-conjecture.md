@@ -44,11 +44,11 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "http://rhm.phil-fak.uni-koeln.de/aktuelle_ausgabe.html"
+url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "Link", url = "http://rhm.phil-fak.uni-koeln.de/aktuelle_ausgabe.html"}]
 
 # Does the content use math formatting?
 math = false
