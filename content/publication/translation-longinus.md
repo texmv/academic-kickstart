@@ -16,7 +16,7 @@ date = "2019-01-01"
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*The Seventeenth Century*"
+publication = "*The Seventeenth Century*. Forthcoming"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -48,7 +48,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Link", url = "http://rhm.phil-fak.uni-koeln.de/aktuelle_ausgabe.html"}]
+# url_custom = [{name = "Custom Link", url = "http://rhm.phil-fak.uni-koeln.de/aktuelle_ausgabe.html"}]
 
 # Does the content use math formatting?
 math = false
