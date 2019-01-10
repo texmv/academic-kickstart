@@ -3,14 +3,14 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://thomasvozar.info/"
+baseurl = "https://tmvozar.com/"
 
 # Title of your site
-title = "Thomas Vozar"
+title = "Thomas Matthew Vozar"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018 Thomas Vozar"
+copyright = "&copy; 2019 Thomas Matthew Vozar"
 
 theme = "academic"
 enableEmoji = true
@@ -50,7 +50,7 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Thomas Vozar"
+  name = "Thomas Matthew Vozar"
   role = "PhD Candidate and Postgraduate Teacher in English"
 
   # Organizations/Affiliations.
