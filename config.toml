@@ -43,7 +43,7 @@ defaultContentLanguageInSubdir = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "dark"
+  color_theme = "1950s"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -60,7 +60,7 @@ defaultContentLanguageInSubdir = false
   gravatar = true  # Get your avatar from Gravatar.com? (true/false)
   avatar = ""  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "tv249@exeter.ac.uk"
-  address = "The Queen's Building, University of Exeter, Exeter, EX4 4QH, UK "
+  address = "The Queen's Building, University of Exeter, Exeter, EX4 4QH, United Kingdom"
   office_hours = ""
   phone = ""
   skype = ""
