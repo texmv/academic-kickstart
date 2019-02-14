@@ -92,7 +92,7 @@ defaultContentLanguageInSubdir = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 1
+  map = 0
   map_api_key = "AIzaSyBsEnDO3YIaCv33H-qKi0Db3qllBtkItFc"
   latitude = "50.734041"
   longitude = "-3.535079"
@@ -238,6 +238,11 @@ defaultContentLanguageInSubdir = false
     icon = "linkedin"
     icon_pack = "fa"
     link = "https://www.linkedin.com/in/thomasvozar/"
+    
+  [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "https://twitter.com/t_m_vozar"
 
 
 # Navigation Links
