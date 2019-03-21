@@ -2,7 +2,7 @@
 title = "Sir Henry Wotton’s Copy of Portus’ *Aphthonius, Hermogenes, & Dionysius Longinus*"
 
 # Date first published.
-date = "2019-12-30"
+date = "2019-01-02"
 
 # Publication type.
 # Legend:
