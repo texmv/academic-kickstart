@@ -2,7 +2,7 @@
 title = "On the Fifth Stanza of the Carmen Saeculare"
 
 # Date first published.
-date = "2019-01-01"
+date = "2019-12-29"
 
 # Publication type.
 # Legend:
