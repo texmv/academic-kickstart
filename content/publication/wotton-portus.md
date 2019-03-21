@@ -1,5 +1,5 @@
 +++
-title = "Sir Henry Wotton’s Copy of Portus’ *Aphthonius, Hermogenes, & Dionysius Longinus*"
+title = "Sir Henry Wotton’s Copy of Portus’ Aphthonius, Hermogenes, & Dionysius Longinus"
 
 # Date first published.
 date = "2019-01-02"
