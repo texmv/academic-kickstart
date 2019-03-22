@@ -24,4 +24,4 @@ University of Exeter
 
 University of Pennsylvania
 
-[Elementary Latin I and II](https://catalog.upenn.edu/courses/latn/)
+[Elementary Latin I & II](https://catalog.upenn.edu/courses/latn/)
