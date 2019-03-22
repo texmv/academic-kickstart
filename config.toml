@@ -50,7 +50,7 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Thomas Vozar"
+  name = "Thomas Matthew Vozar"
   role = "PhD Candidate and Postgraduate Teacher in English"
 
   # Organizations/Affiliations.
@@ -60,8 +60,8 @@ defaultContentLanguageInSubdir = false
   gravatar = true  # Get your avatar from Gravatar.com? (true/false)
   avatar = ""  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "tv249@exeter.ac.uk"
-  address = "The Queen's Building, University of Exeter, Exeter, EX4 4QH, United Kingdom"
-  office_hours = "Spring 2019: 3:00pm - 4:00pm (Queen's 118)"
+  address = "The Queen's Building 118"
+  office_hours = "Spring 2019: 3:00pm - 4:00pm"
   phone = ""
   skype = ""
   telegram = ""
@@ -252,20 +252,20 @@ defaultContentLanguageInSubdir = false
   name = "Home"
   url = "#about"
   weight = 1
+  
+[[menu.main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 2
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications_selected"
-  weight = 2
+  url = "#publications"
+  weight = 3
 
 [[menu.main]]
   name = "Talks"
   url = "#talks"
-  weight = 3
-
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
   weight = 4
 
 [[menu.main]]
