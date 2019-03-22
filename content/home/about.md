@@ -30,11 +30,6 @@ weight = 5
   course = "BA Latin"
   institution = "Oberlin College"
   year = 2013
-  
-[[education.courses]]
-  course = "Semester Abroad"
-  institution = "Intercollegiate Center for Classical Studies in Rome"
-  year = 2012
  
 +++
 
