@@ -16,7 +16,7 @@ date = "2019-01-02"
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Notes & Queries*"
+publication = "*Notes & Queries*. Forthcoming"
 publication_short = ""
 
 # Abstract and optional shortened version.
