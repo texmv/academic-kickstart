@@ -1,8 +1,8 @@
 +++
-title = "On the Fifth Stanza of the Carmen Saeculare"
+title = "On the Fifth Stanza of the *Carmen Saeculare*"
 
 # Date first published.
-date = "2019-01-01"
+date = "2019-03-01"
 
 # Publication type.
 # Legend:
@@ -16,7 +16,7 @@ date = "2019-01-01"
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Latomus*. Forthcoming"
+publication = "*Latomus: Revue d'études latines* 78.1:	186-191."
 publication_short = ""
 
 # Abstract and optional shortened version.
