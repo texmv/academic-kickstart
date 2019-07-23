@@ -7,7 +7,7 @@ time_start = 2019-06-17T16:15:00
 time_end = 2019-06-17T18:00:00
 abstract = ""
 abstract_short = ""
-event = "12th International Milton Symposium, Université de Strasbourg"
+event = "12th International Milton Symposium: Milton's Politics of Religion, Université de Strasbourg"
 event_url = ""
 location = "Strasbourg, France"
 
