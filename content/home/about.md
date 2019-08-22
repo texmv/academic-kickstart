@@ -10,16 +10,16 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "early modern literature and intellectual history",
+    "early modern literary, cultural, and intellectual history",
     "classical texts and their reception",
     "bibliography, manuscript studies, and textual criticism",
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD English"
+  course = "PhD English Studies"
   institution = "University of Exeter"
-  year = 2020
+  year = 2020 (exp)
 
 [[education.courses]]
   course = "MA Classical Studies"
@@ -27,7 +27,7 @@ weight = 5
   year = 2015
 
 [[education.courses]]
-  course = "BA Latin"
+  course = "BA Latin (High Hons)"
   institution = "Oberlin College"
   year = 2013
  
@@ -35,4 +35,4 @@ weight = 5
 
 # About
 
-Thomas Matthew Vozar is a PhD candidate and postgraduate teacher in English at the [University of Exeter](https://humanities.exeter.ac.uk/english/) associated with the [Centre for Early Modern Studies (CEMS)](https://humanities.exeter.ac.uk/history/research/centres/earlymodern/). His dissertation is entitled *Milton and the Idea of the Sublime in the Seventeenth Century*. His scholarship has been published or is forthcoming in *Philosophy and Literature*, the *Rheinisches Museum für Philologie*, *Latomus: Revue d'études latines*, *Notes & Queries*, and *The Seventeenth Century*. An Associate Fellow of the [Higher Education Academy](https://www.heacademy.ac.uk/), he has taught courses on the Latin language, Shakespeare, and Renaissance literature.  View his full CV [here](pdf/CV_Vozar.pdf).
+Thomas Matthew Vozar is a PhD candidate and postgraduate teacher in English at the [University of Exeter](https://humanities.exeter.ac.uk/english/) associated with the [Centre for Early Modern Studies (CEMS)](https://humanities.exeter.ac.uk/history/research/centres/earlymodern/). His dissertation is entitled *Milton and the Idea of the Sublime in the Seventeenth Century*. His scholarship has been published or is forthcoming in *Philosophy and Literature*, the *Rheinisches Museum für Philologie*, *Latomus: Revue d'études latines*, *Notes & Queries*, and *The Seventeenth Century*. An Associate Fellow of the [Higher Education Academy](https://www.heacademy.ac.uk/), he has taught courses on English Renaissance literature as well as an introduction to Latin and a survey of English and other literatures from Genesis to *Frankenstein*.  View his full CV [here](pdf/CV_Vozar.pdf).
