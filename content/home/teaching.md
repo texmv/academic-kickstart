@@ -17,6 +17,8 @@ weight = 60
 
 University of Exeter
 
+[Beginnings: English Literature before 1800](https://humanities.exeter.ac.uk/english/modules/EAS1035/)
+
 [Rethinking Shakespeare](https://humanities.exeter.ac.uk/english/modules/eas1041/)
 
 [Desire and Power: English Literature 1570–1640](https://humanities.exeter.ac.uk/english/modules/eas2026/)
