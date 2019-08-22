@@ -3,8 +3,8 @@
 date = 2017-01-01T00:00:00  # Schedule page publish date.
 
 title = "Milton’s Prolusions and Scholasticism at Cambridge, 1625–1632"
-time_start = 2019-09-05T12:00:00
-time_end = 2019-09-06T12:00:00
+time_start = 2019-09-05T15:00:00
+time_end = 2019-09-06T15:15:00
 abstract = ""
 abstract_short = ""
 event = "Scholasticism in	Medieval and Early Modern History, St John's College, University of Oxford"
