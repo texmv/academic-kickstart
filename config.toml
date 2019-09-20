@@ -228,11 +228,6 @@ defaultContentLanguageInSubdir = false
     icon = "orcid"
     icon_pack = "ai"
     link = "https://orcid.org/0000-0003-1718-2616"
-
-  [[params.social]]
-    icon = "academia"
-    icon_pack = "ai"
-    link = "https://exeter.academia.edu/ThomasVozar"
     
   [[params.social]]
     icon = "twitter"
