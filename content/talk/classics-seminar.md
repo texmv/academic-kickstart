@@ -3,8 +3,8 @@
 date = 2017-01-01T00:00:00  # Schedule page publish date.
 
 title = "Longinian Sublimity in the Renaissance"
-time_start = 2019-01-22T12:00:00
-time_end = 2019-01-22T12:00:00
+time_start = 2020-01-22T12:00:00
+time_end = 2020-01-22T12:00:00
 abstract = ""
 abstract_short = ""
 event = "Research Seminar Series, Department of Classics and Ancient History, University of Exeter"
