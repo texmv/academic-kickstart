@@ -12,7 +12,7 @@ weight = 5
   interests = [
     "early modern literary, cultural, and intellectual history",
     "classical texts and their reception",
-    "bibliography, manuscript studies, and textual criticism",
+    "bibliography/book history, manuscript studies, and textual criticism",
   ]
 
 # List your qualifications (such as academic degrees).
@@ -35,4 +35,4 @@ weight = 5
 
 # About
 
-Thomas Matthew Vozar is a PhD candidate and postgraduate teacher in English Studies at the [University of Exeter](https://humanities.exeter.ac.uk/english/) associated with the [Centre for Early Modern Studies (CEMS)](https://humanities.exeter.ac.uk/history/research/centres/earlymodern/). His dissertation is entitled *Milton and the Idea of the Sublime in the Seventeenth Century*. His scholarship has been published or is forthcoming in *Philosophy and Literature*, the *Rheinisches Museum für Philologie*, *Latomus: Revue d'études latines*, *Notes & Queries*, and *The Seventeenth Century*. An Associate Fellow of the [Higher Education Academy](https://www.heacademy.ac.uk/), he teaches seminars mostly on early modern English literature.  View his full CV [here](CV_Vozar_new.pdf).
+I am a PhD candidate and postgraduate teacher in English at the [University of Exeter](https://humanities.exeter.ac.uk/english/) associated with the [Centre for Early Modern Studies (CEMS)](https://humanities.exeter.ac.uk/history/research/centres/earlymodern/). My dissertation, which I expect to submit by September 2020, is entitled *Milton and the Idea of the Sublime in the Seventeenth Century*. My scholarship has been published or is forthcoming in *Philosophy and Literature*, the *Rheinisches Museum für Philologie*, *Latomus: Revue d'études latines*, *Notes & Queries*, and *The Seventeenth Century*. An Associate Fellow of the [Higher Education Academy](https://www.heacademy.ac.uk/), I teach seminars mostly on early modern English literature.  View my full CV [here](CV_Vozar_new.pdf).
