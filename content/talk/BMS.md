@@ -2,7 +2,7 @@
 
 date = 2017-01-01T00:00:00  # Schedule page publish date.
 
-title = "Milton’s “Sublime Art”, the Problem of Enthusiasm, and the Politics of Longinian Rhetoric"
+title = "Milton and the Politics of Longinian Rhetoric"
 time_start = 2019-10-19T14:00:00
 time_end = 2019-10-19T15:00:00
 abstract = ""
