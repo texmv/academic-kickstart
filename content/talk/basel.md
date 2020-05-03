@@ -7,7 +7,7 @@ time_start = 2019-10-03T12:00:00
 time_end = 2019-10-05T12:00:00
 abstract = ""
 abstract_short = ""
-event = "Cicero in Basel: Reception Histories from a Humanist City, Universität Basel"
+event = "Cicero in Basel: Rezeptionsgeschichten aus einer Humanistenstadt, Universität Basel"
 event_url = ""
 location = "Basel, Switzerland"
 
