@@ -16,7 +16,7 @@ date = "2020-01-02"
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "*Cicero in Basel: Rezeptionsgeschichten einer Humanistenstadt*. Ed. Cédric Scheidegger Laemmle. Berlin: De Gruyter. Forthcoming"
+publication = "*Cicero in Basel: Rezeptionsgeschichten aus einer Humanistenstadt*. Ed. Cédric Scheidegger Laemmle. Berlin: De Gruyter. Forthcoming"
 publication_short = ""
 
 # Abstract and optional shortened version.
