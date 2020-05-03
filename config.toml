@@ -10,7 +10,7 @@ title = "T. M. Vozar"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2019 Thomas Matthew Vozar"
+copyright = "&copy; 2019 T. M. Vozar"
 
 theme = "academic"
 enableEmoji = true
@@ -50,8 +50,8 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Thomas Matthew Vozar"
-  role = "PhD Candidate & Postgraduate Teacher in English"
+  name = "Thomas Vozar"
+  role = "PhD Candidate in English Studies"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -61,7 +61,7 @@ defaultContentLanguageInSubdir = false
   avatar = ""  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "tv249@exeter.ac.uk"
   address = "The Queen's Building 157"
-  office_hours = "Fridays 10:30-11:30am (Autumn Term)"
+  office_hours = "TBD"
   phone = ""
   skype = ""
   telegram = ""
