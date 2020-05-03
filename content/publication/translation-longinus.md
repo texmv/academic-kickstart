@@ -2,7 +2,7 @@
 title = "An English Translation of Longinus in the Lansdowne Collection at the British Library"
 
 # Date first published.
-date = "2020-01-01"
+# date = "2020-01-01"
 
 # Publication type.
 # Legend:
