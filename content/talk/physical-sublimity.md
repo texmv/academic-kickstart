@@ -2,7 +2,7 @@
 
 date = 2017-01-01T00:00:00  # Schedule page publish date.
 
-title = "Physical Sublimity in Paradise Lost"
+title = "Physical Sublimity in Paradise Lost CANCELED"
 time_start = 2020-04-02T12:00:00
 time_end = 2020-04-04T12:00:00
 abstract = ""
