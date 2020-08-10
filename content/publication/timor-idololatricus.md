@@ -13,7 +13,7 @@ date = "2020-01-04"
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*Reformation*. Forthcoming"
