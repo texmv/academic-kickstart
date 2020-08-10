@@ -1,5 +1,5 @@
 +++
-title = "*Timor Idololatricus* in Reformed Theology from Polanus to Milton"
+title = "Timor Idololatricus in Reformed Theology from Polanus to Milton"
 
 # Date first published.
 date = "2020-01-04"
