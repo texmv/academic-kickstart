@@ -17,13 +17,20 @@ weight = 60
 
 University of Exeter
 
-[Beginnings: English Literature before 1800](https://humanities.exeter.ac.uk/english/modules/EAS1035/)
+[Making History (Autumn 2020)](https://intranet.exeter.ac.uk/humanities/studying/undergraduates/modules/HIH1400/2020-1/)
 
-[Rethinking Shakespeare](https://humanities.exeter.ac.uk/english/modules/eas1041/)
+[Text and Context: Roman Love Elegy (Autumn 2020)](https://intranet.exeter.ac.uk/humanities/studying/undergraduates/modules/CLA1406/2020-1/)
 
-[Desire and Power: English Literature 1570–1640](https://humanities.exeter.ac.uk/english/modules/eas2026/)
+[Desire and Power: English Literature 1570–1640 (Autumn 2020, Autumn 2018)](https://intranet.exeter.ac.uk/humanities/studying/undergraduates/modules/EAS2026/2020-1/)
+
+[Beginnings: English Literature before 1800 (Autumn 2019)](https://intranet.exeter.ac.uk/humanities/studying/undergraduates/modules/EAS1035/2019-0/)
+
+[Rethinking Shakespeare (Spring 2019)](https://intranet.exeter.ac.uk/humanities/studying/undergraduates/modules/EAS1041/2018-9/)
+
 
 
 University of Pennsylvania
 
-[Elementary Latin I & II](https://catalog.upenn.edu/courses/latn/)
+[Elementary Latin II (Spring 2015)](https://catalog.upenn.edu/courses/latn/)
+
+[Elementary Latin I (Autumn 2014)](https://catalog.upenn.edu/courses/latn/)
