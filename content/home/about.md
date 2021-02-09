@@ -19,7 +19,7 @@ weight = 5
 [[education.courses]]
   course = "PhD English Studies"
   institution = "University of Exeter"
-  year = 2020
+  year = 202
 
 [[education.courses]]
   course = "MA Classical Studies"
@@ -35,4 +35,4 @@ weight = 5
 
 # About
 
-I am a scholar of early modern literary, cultural, and intellectual history. I recently completed my PhD at the [University of Exeter](https://humanities.exeter.ac.uk/english/), where I have been associated with the [Centre for Early Modern Studies](https://humanities.exeter.ac.uk/history/research/centres/earlymodern/) and the [Centre for Classical Reception](https://humanities.exeter.ac.uk/classics/research/classicalreception/), with a thesis entitled *Milton, Longinus, and the Sublime in the Seventeenth Century*.  My scholarship has been published or is forthcoming in *Philosophy and Literature*, the *Rheinisches Museum für Philologie*, *Latomus: Revue d'études latines*, *Notes & Queries*, *The Seventeenth Century*, *Reformation*, and multiple edited volumes. An Associate Fellow of the [Higher Education Academy](https://www.heacademy.ac.uk/), I teach modules in English, Classics, and History.  View my CV [here](pdf/CV_Vozar.pdf).
+I am a scholar of early modern literary, cultural, and intellectual history with a particular interest in the classical tradition. I recently completed my PhD at the [University of Exeter](https://humanities.exeter.ac.uk/english/), where I have been associated with the [Centre for Early Modern Studies](https://humanities.exeter.ac.uk/history/research/centres/earlymodern/) and the [Centre for Classical Reception](https://humanities.exeter.ac.uk/classics/research/classicalreception/), with a thesis entitled *Milton, Longinus, and the Sublime in the Seventeenth Century*.  My scholarship has been published or is forthcoming in *Philosophy and Literature*, the *Rheinisches Museum für Philologie*, *Latomus: Revue d'études latines*, *Notes & Queries*, *The Seventeenth Century*, *Reformation*, and multiple edited volumes. An Associate Fellow of the [Higher Education Academy](https://www.heacademy.ac.uk/), I have taught modules in English, Classics, and History.  View my CV [here](pdf/CV_Vozar.pdf).
