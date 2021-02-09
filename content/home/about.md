@@ -19,7 +19,7 @@ weight = 5
 [[education.courses]]
   course = "PhD English Studies"
   institution = "University of Exeter"
-  year = 202
+  year = 2021
 
 [[education.courses]]
   course = "MA Classical Studies"
